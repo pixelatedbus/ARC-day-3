@@ -1,0 +1,1 @@
+Axios merupakan library javascript yang membantu melakukan asynchronous HTTP requests ke server dengan mudah, dan juga mengatasi response-nya. Library ini berguna untuk nge-fetch data dengan API. 
